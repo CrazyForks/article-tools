@@ -17,19 +17,20 @@
 
 直接用浏览器打开对应 HTML 文件即可，无需安装任何依赖。
 
-## 请我喝咖啡
+## 烁皓 AI 交流群
 
-如果这些工具对你有帮助，欢迎请我喝杯咖啡：
+我是烁皓，一个天天用 AI 做产品、搞钱的独立开发者，建了一个「付费 AI 交流群」。
+
+- 💰 入群早鸟价 **￥9.9**
+- 群每满 10 人涨 10 元：9.9 → 19.9 → 29.9…… 封顶 **99**，越早进越便宜
+
+想进的 👉 加我微信 **hao_dev**（备注「入群」），我拉你进群：
 
 <table>
   <tr>
     <td align="center">
-      <strong>支付宝</strong><br>
-      <img src="images/pay-alipay.jpg" alt="支付宝收款码" width="220">
-    </td>
-    <td align="center">
-      <strong>微信</strong><br>
-      <img src="images/pay-wechat.jpg" alt="微信收款码" width="220">
+      <strong>微信：hao_dev</strong><br>
+      <img src="images/wechat-qr.png" alt="烁皓微信二维码" width="240">
     </td>
   </tr>
 </table>

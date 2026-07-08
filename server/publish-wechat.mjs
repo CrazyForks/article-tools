@@ -9,7 +9,7 @@
  *   2. POST /api/draft  → create a WeChat Official Account draft.
  *
  * Setup: copy .env.example to .env, fill in your credentials, then `npm start`.
- * See README.md for the WeChat account requirements (认证 + IP 白名单).
+ * See README.md for the WeChat account requirements (AppID/AppSecret + IP 白名单).
  */
 
 import http from 'node:http';
@@ -58,7 +58,7 @@ const ERRCODE_HINT = {
   40164: '调用来源 IP 不在白名单里 —— 去公众号后台「设置与开发 → 基本配置 → IP 白名单」加上本机出口 IP',
   41001: '缺少 access_token',
   45009: '接口调用超过频率限制',
-  48001: 'API 未授权 —— 该公众号可能未认证，或没有草稿接口权限',
+  48001: 'API 未授权 —— 去公众号后台「接口权限」确认草稿箱/发布接口可用',
   53500: '发布能力被封禁',
 };
 const wxError = (j) => {
